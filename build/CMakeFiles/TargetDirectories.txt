@@ -1,0 +1,3 @@
+C:/Users/SirKioi/Documents/PSD_CSP codec/project/build/CMakeFiles/PSDThumbnailProvider.dir
+C:/Users/SirKioi/Documents/PSD_CSP codec/project/build/CMakeFiles/edit_cache.dir
+C:/Users/SirKioi/Documents/PSD_CSP codec/project/build/CMakeFiles/rebuild_cache.dir
